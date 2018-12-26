@@ -1,7 +1,6 @@
-
 **AIM**: Predict survival on the Titanic and get familiar with ML basics
 
- __Datasets__: Train.csv and Test.csv from [kaggle](https://www.kaggle.com/francksylla/titanic-machine-learning-from-disaster/data) are being used for the problem statement
+ __Datasets__: Train.csv and Test.csv from [kaggle](https://www.kaggle.com/c/titanic/data) are being used for the problem statement
 
 __Methods Used__: I am planning to use the following techniques:
 1.  Logistic Regression
