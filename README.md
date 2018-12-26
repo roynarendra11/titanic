@@ -33,5 +33,5 @@ __Parent__ = mother, father
 __Child__ = daughter, son, stepdaughter, stepson
 Some children travelled only with a nanny, therefore parch=0 for them.
 
-### __File Descriptions__:
+### __File Description__:
 *To be updated*
